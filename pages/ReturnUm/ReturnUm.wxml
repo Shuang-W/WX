@@ -1,0 +1,13 @@
+<!--ReturnUm.wxml-->
+<view class="container">
+  <text class="locker">Locker 编号</text>
+  <text class="locker">BV3369</text>
+  <text class="password">密码</text>
+  <text class="password">XX-XX-XX</text>
+  <text class="input_msg">输入雨伞编码</text>
+  <textarea id="umID_input" auto-focus="true" maxlength="10"/>
+  <button bindtap="SendtoServer">确定</button>
+
+
+
+</view>

@@ -1,0 +1,7 @@
+<!--Success.wxml-->
+<view class="container">
+  <icon type="success" size="200"/>
+  <text class="success_Msg"> 还伞成功</text>
+  <text class="success_detail">感谢使用GPA共享雨伞</text>
+  <a href="https://www.google.com">我要反馈</a>
+</view>

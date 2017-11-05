@@ -1,0 +1,6 @@
+<!--Fail.wxml-->
+<view class="container">
+  <icon type="warn" size="200"/>
+  <text class="fail_Msg"> 还伞失败</text>
+  <text class="fail_detail">Sorry</text>
+</view>
